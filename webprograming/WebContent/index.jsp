@@ -16,7 +16,7 @@ body{
         background-attachment: scroll;
     }
 #mainCotent{
-        margin-top: 100px;
+        margin-top: 101px;
         width: 100%;
         height: 100%;
     }
